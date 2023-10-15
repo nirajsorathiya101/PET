@@ -1,4 +1,4 @@
-# PETs2020 Attacks implementation
+# PET(privacy enhancing technologies) Attacks implementation
 
 > This project contains the implementation of the Model Inversion Attack,Membership Inference Attack and Model Stealing Attack.
 
